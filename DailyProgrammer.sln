@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheDucciSequence", "TheDucciSequence\TheDucciSequence.csproj", "{57203C0F-ACE9-4FBE-B7B5-C06443AFE949}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TilingWithPentominos", "TilingWithPentominos\TilingWithPentominos.csproj", "{54ACCBDF-CFF6-4CBB-8D86-6E2093B41C16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57203C0F-ACE9-4FBE-B7B5-C06443AFE949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57203C0F-ACE9-4FBE-B7B5-C06443AFE949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57203C0F-ACE9-4FBE-B7B5-C06443AFE949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57203C0F-ACE9-4FBE-B7B5-C06443AFE949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54ACCBDF-CFF6-4CBB-8D86-6E2093B41C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54ACCBDF-CFF6-4CBB-8D86-6E2093B41C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54ACCBDF-CFF6-4CBB-8D86-6E2093B41C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54ACCBDF-CFF6-4CBB-8D86-6E2093B41C16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

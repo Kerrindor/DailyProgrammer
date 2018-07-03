@@ -1,0 +1,5 @@
+C:\Users\MikeD\RiderProjects\DailyProgrammer\TheDucciSequence\bin\Debug\TheDucciSequence.exe
+C:\Users\MikeD\RiderProjects\DailyProgrammer\TheDucciSequence\bin\Debug\TheDucciSequence.pdb
+C:\Users\MikeD\RiderProjects\DailyProgrammer\TheDucciSequence\obj\Debug\TheDucciSequence.csprojResolveAssemblyReference.cache
+C:\Users\MikeD\RiderProjects\DailyProgrammer\TheDucciSequence\obj\Debug\TheDucciSequence.exe
+C:\Users\MikeD\RiderProjects\DailyProgrammer\TheDucciSequence\obj\Debug\TheDucciSequence.pdb
