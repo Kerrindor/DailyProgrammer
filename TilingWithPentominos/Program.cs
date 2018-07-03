@@ -80,11 +80,61 @@ namespace TilingWithPentominos
             pentominos[6].Name = 'U';
             pentominos[6].Coordinates = new int[,]
             {
+                {0,0},
                 {0,1},
-                {1,1},
+                {0,2},
+                {1,0},
+                {1,2}
+            };
+            
+            pentominos[7].Name = 'V';
+            pentominos[7].Coordinates = new int[,]
+            {
+                {0,0},
+                {0,1},
                 {0,2},
                 {1,2},
                 {2,2}
+            };
+            
+            pentominos[8].Name = 'W';
+            pentominos[8].Coordinates = new int[,]
+            {
+                {0,0},
+                {0,1},
+                {1,1},
+                {1,2},
+                {2,2}
+            };
+            
+            pentominos[9].Name = 'X';
+            pentominos[9].Coordinates = new int[,]
+            {
+                {0,1},
+                {1,0},
+                {1,1},
+                {1,2},
+                {2,1}
+            };
+            
+            pentominos[10].Name = 'Y';
+            pentominos[10].Coordinates = new int[,]
+            {
+                {0,1},
+                {1,1},
+                {2,0},
+                {2,1},
+                {3,1}
+            };
+            
+            pentominos[11].Name = 'Z';
+            pentominos[11].Coordinates = new int[,]
+            {
+                {0,1},
+                {0,2},
+                {1,1},
+                {2,0},
+                {2,1}
             };
             
             return pentominos;
